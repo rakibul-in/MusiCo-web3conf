@@ -2,7 +2,7 @@
 MusiCo is a web3 music player that converts your music files into NFTs.
 This app is built for the hackathon *Hack Web3Conf India '23*
 
-![WhatsApp Image 2023-03-19 at 13 30 03](Aarohi.jpg)
+![WhatsApp Image 2023-03-19 at 13 30 03]()
 
 
 ## Introduction
