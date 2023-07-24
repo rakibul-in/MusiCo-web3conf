@@ -1,6 +1,6 @@
-# MusicCoin 
-Music coin is a web3 music player that converts your music files into NFTs .
-This app is built during a 48 hour hackathon - *CodeFest 2023*
+# MusiCo 
+MusiCo is a web3 music player that converts your music files into NFTs.
+This app is built for the hackathon *Hack Web3Conf India '23*
 
 ![WhatsApp Image 2023-03-19 at 13 30 03](https://user-images.githubusercontent.com/107784525/226164768-0bb41bdb-3e7e-4c4b-9bc1-b928e81c1203.jpeg)
 
