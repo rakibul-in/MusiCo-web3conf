@@ -14,16 +14,11 @@ This project aims to revolutionize the music industry by developing a blockchain
 * Community-driven curation of music content
 
 ## Technologies Used
-* Ethereum blockchain
+* Ethereum Blockchain
 * Solidity smart contract programming language
 * IPFS (InterPlanetary File System) for decentralized file storage
 * Web3.js library for interacting with the Ethereum blockchain
-* Javascript and tailwind css for website UI
-
-## Installation and Setup
-1. Clone the repository to your local machine
-2. Install the required dependencies using `npm install`
-3. Start the application using `npm start`
+* JavaScript and Railwind CSS for website UI
 
 
 ## Contributors
